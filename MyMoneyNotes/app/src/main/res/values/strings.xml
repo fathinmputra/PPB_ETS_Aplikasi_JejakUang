@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JejakUang</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">JejakUang</string>
+    <string name="current_balance">Saldo Saat Ini</string>
+    <string name="income">Pemasukan</string>
+    <string name="expense">Pengeluaran</string>
+    <string name="view_all_transactions">Lihat Semua Transaksi</string>
+    <string name="view_chart">Lihat Grafik</string>
+    <string name="transactions">Transaksi</string>
+    <string name="expense_analysis">Analisis Pengeluaran</string>
+
+    <!-- Transaction List Screen -->
+    <string name="transaction_list">Daftar Transaksi</string>
+    <string name="filter">Filter</string>
+    <string name="filter_transactions">Filter Transaksi</string>
+    <string name="select_transaction_type">Pilih jenis transaksi:</string>
+    <string name="all">Semua</string>
+    <string name="close">Tutup</string>
+    <string name="no_transactions">Belum ada transaksi</string>
+    <string name="delete">Hapus</string>
+
+    <!-- Add Transaction Screen -->
+    <string name="add_transaction">Tambah Transaksi</string>
+    <string name="new_transaction">Tambah Transaksi Baru</string>
+    <string name="amount">Jumlah</string>
+    <string name="enter_amount">Masukkan jumlah</string>
+    <string name="description">Deskripsi</string>
+    <string name="transaction_description">Deskripsi transaksi</string>
+    <string name="select_category">Pilih Kategori</string>
+    <string name="save_transaction">Simpan Transaksi</string>
+
+    <!-- Chart Screen -->
+    <string name="expense_distribution">Distribusi Pengeluaran</string>
+    <string name="chart_description">Grafik di bawah menunjukkan distribusi pengeluaran berdasarkan kategori</string>
+    <string name="total">Total</string>
+    <string name="no_expense_data">Belum ada data pengeluaran</string>
+
+    <!-- Category Names -->
+    <string name="category_salary">Gaji</string>
+    <string name="category_investment">Investasi</string>
+    <string name="category_gift">Hadiah</string>
+    <string name="category_other_income">Lainnya</string>
+    <string name="category_food">Makanan</string>
+    <string name="category_transport">Transportasi</string>
+    <string name="category_shopping">Belanja</string>
+    <string name="category_bills">Tagihan</string>
+    <string name="category_entertainment">Hiburan</string>
+    <string name="category_health">Kesehatan</string>
+    <string name="category_education">Pendidikan</string>
+    <string name="category_other_expense">Lainnya</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Beranda</string>
+    <string name="nav_transactions">Transaksi</string>
+    <string name="nav_add">Tambah</string>
+    <string name="nav_chart">Grafik</string>
+
+    <!-- Common -->
+    <string name="back">Kembali</string>
+    <string name="save">Simpan</string>
+    <string name="cancel">Batal</string>
+</resources>
